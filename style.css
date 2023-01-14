@@ -48,7 +48,7 @@ nav ul li a:hover{
 .container{
     margin: 4em;
     border: solid 2em #fed9b7;
-    border-radius: 5%;
+    border-radius: 10px;
     background-color: #fed9b7;
 }
 #about {
